@@ -94,3 +94,9 @@ footer p{
 .btn{
     width: 100%;
 }
+
+.btn-hover:hover{
+    border-radius: 20px;
+    background-color: #354545 !important;
+
+}
